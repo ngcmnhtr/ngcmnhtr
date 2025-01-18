@@ -14,13 +14,13 @@ A 2D platformer set in a dystopian cyberpunk world, featuring a penguin protagon
 
 ## **About Me**
 🎮 Aspiring 3D game programmer  
-💻 Passionate about computer science  
+💻 A computer science student at Vanier College, QC CA
 ✨ Enthusiastic about creating immersive gaming experiences  
 
 ---
 
 ## **Skills and Technologies**
-- **Languages**: Java, Python, C++, ...
+- **Languages**: Java, Python, HTML, CSS, JS, C#, ...
 - **Game Engines**: Unity, Greenfoot, Godot, ...
 - **Other Tools**: Blender, Git, ProCreate, ...
 
