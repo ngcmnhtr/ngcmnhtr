@@ -14,7 +14,7 @@ A 2D platformer set in a dystopian cyberpunk world, featuring a penguin protagon
 
 ## **About Me**
 🎮 Aspiring 3D game programmer  
-💻 A computer science student at Vanier College, QC CA
+💻 A computer science student at Vanier College, QC CA   
 ✨ Enthusiastic about creating immersive gaming experiences  
 
 ---
